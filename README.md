@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web, Game dev
 - 🌱 I’m currently learning algorithms and ds
 - 💞️ I’m looking to collaborate on whatever games or web projects etc
-- 📫 How to reach me juzopigeon@gmail.com
+- 📫 How to reach me juzosuzuia@gmail.com
 - Linkedin: https://www.linkedin.com/in/vlad-fedorchenko-23b1711bb/
 
 <!---
